@@ -1,5 +1,6 @@
 Feature: Test Add and Delete place of google map
-# Kirubakaran first commit today
+# Kirubakaran first commit today....
+	# second commit
 	@AddPlace
 	Scenario: Test Add Place
 	    Given Trigger the "LoginAPI" with "POST" method with Username and Password 
